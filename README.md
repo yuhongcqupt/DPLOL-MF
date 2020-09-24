@@ -1,13 +1,18 @@
 # Discriminative Dictionary Pair Learning Constrained by Ordinal Locality for Mixed Frequency Data Classification(DPLOL-MF)
 
 Paper title:
+<br>
 A Novel Discriminative Dictionary Pair Learning Constrained by Ordinal Locality for Mixed Frequency Data Classification
 
+<br>
 by Hong Yu and Qian Yang et al.
+<br>
 The manuscript was submitted to TKDE 2020.
-
+<br>
 Copyright (C) 2020
+<br>
 Hong Yu
+<br>
 Chongqing University of Posts and Telecommunications
 
 ## Usage
