@@ -1,11 +1,17 @@
 # Introduction
 
 ![navigation](https://github.com/yuhongcqupt/DPLOL-MF/blob/master/software/img/navigation.png)
+
 <br>
+
 This is navigation window of DPLOL_MF, including some essential information, such as title, paper link address and reference. Paper link address provide the paper that this software based on. We click “RUN DPLOL_MF” button to turn into main window of DPLOL_MF as shown follow.
+
 <br>
+
 ![mainwindow](https://github.com/yuhongcqupt/DPLOL-MF/blob/master/software/img/mainwindow.png)
+
 <br>
+
 This window includes 3 parts: parameters setting part, source data inputting part and result shown part. Next we will introduce some details for those 3 parts.
 
 # Set parameter
