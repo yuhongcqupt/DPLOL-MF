@@ -4,9 +4,11 @@ Paper title:
 <br>
 **A Novel Discriminative Dictionary Pair Learning Constrained by Ordinal Locality for Mixed Frequency Data Classification**
 <br>
+<br>
 by Hong Yu and Qian Yang et al.
 <br>
 The manuscript was submitted to TKDE 2020.
+<br>
 <br>
 Copyright (C) 2020
 <br>
@@ -20,7 +22,6 @@ Chongqing University of Posts and Telecommunications
 - Numpy, pandas, functools, sklearn
 
 ## Describe
-
 The repositories include three folders.
 1. “dataset” folder provides the stock datasets as Stock, Stock-UpSampleToDay, Stock-UpSampleToMonth and Stock-DownSampleToQuarter.
 2. “software” folder provides a “.exe” progress allowed reader to reproduce the experiment of mixed-frequency data in this paper.
