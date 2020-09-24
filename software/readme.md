@@ -29,7 +29,9 @@ In the part, you should open your computer disk to find the input data. There ar
 2.	Each data file corresponds to a data label file.
 The input file show as follow:
 <br>
-![dataset](https://github.com/yuhongcqupt/DPLOL-MF/blob/master/software/img/dataset.png)
+
+![stock](https://github.com/yuhongcqupt/DPLOL-MF/blob/master/software/img/dataset.png)
+
 <br>
 There are 3 frequency data. we split it as shown above. We will input this data step by step.
 <br>
