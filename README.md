@@ -2,8 +2,7 @@
 
 Paper title:
 <br>
-A Novel Discriminative Dictionary Pair Learning Constrained by Ordinal Locality for Mixed Frequency Data Classification
-
+**A Novel Discriminative Dictionary Pair Learning Constrained by Ordinal Locality for Mixed Frequency Data Classification**
 <br>
 by Hong Yu and Qian Yang et al.
 <br>
